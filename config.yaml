@@ -1,0 +1,14 @@
+batch_size: 8
+blending_factor: 0.5
+hidden_size: 32
+img_shape: 440
+learning_rate: 0.002
+num_epochs: 50
+pconsistency: 1
+pcontrast: 0.25
+pcross: 0.25
+pr: 4
+pssim: 1
+ptv: 0.02
+sampling_factor: 4
+speedup: 0
